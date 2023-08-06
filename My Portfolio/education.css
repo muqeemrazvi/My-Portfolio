@@ -1,0 +1,31 @@
+educaHeading{
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    /* position: relative; */
+    margin-left:33%;
+    font-family: monospace;
+
+}
+
+
+
+    .image3 img{
+        margin-top: 8px;
+        width: 111px;
+        height: 101px;
+        border-radius: 253px;
+    }
+    .image3 h1{
+        margin-top: 8px;
+
+    }
+educ{
+    display: flex;
+    flex-direction: column;
+    margin-left:33%;
+ font-family: monospace;
+}
+educ h2{
+    color: rgb(47, 28, 119);
+}

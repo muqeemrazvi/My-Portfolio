@@ -1,0 +1,13 @@
+.intro{
+    flex-direction: column;
+
+}
+.text{
+    margin-top: -94px;
+    /* position: relative; */
+    margin-left: 256px;
+    /* transform: translate(10%, -50%); */
+    font-family: cursive;
+    color: #264866;
+    font-size: large;
+}

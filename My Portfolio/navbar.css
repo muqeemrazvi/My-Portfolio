@@ -1,0 +1,49 @@
+body{
+    background: rgb(200, 204, 199);
+    
+}
+.navbar{
+    
+ padding-top: -10px;
+ 
+    
+}
+.navbar ul{
+    
+    overflow: auto;
+    color: rgb(5, 87, 153);
+    background: #f2f8f7;
+
+    font-family: cursive;
+    font:bold;
+    font-size: large;
+    margin-left: -7px;
+    margin-right: -10px;
+    margin-top: -11px;
+
+}
+.navbar li{
+
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+
+}
+
+.listyle{
+    padding-right: 500px;
+    
+}
+.listyle1 a{
+    text-decoration: none;
+
+}
+
+.listyle1:hover{
+    color: rgb(24, 46, 143);
+    cursor: pointer;
+    background: #1cdfe6;
+    border-radius: 10px;
+    font-size: 20px;
+    /* border: 3px solid rgb(193, 203, 224); */
+}

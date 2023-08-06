@@ -1,0 +1,30 @@
+heading{
+    
+    text-align: center;
+
+}
+
+heading h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+    text-align: center;
+}
+heading1 h1{
+    font-family: cursive;
+    margin-top: 60px;
+    text-align: center;
+}
+logo img{
+   
+    width: 81px;
+    height: 82px;
+    border-radius: 40px;
+    margin-left: 84px;
+
+}
+.logos{
+    margin-left: 15%;
+}
+h3{
+    color: blue;
+}
